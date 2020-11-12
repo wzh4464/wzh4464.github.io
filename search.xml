@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>基于弹性网约束的高阶图匹配的张量模型</title>
+      <link href="2020/11/12/ji-yu-dan-xing-wang-yue-shu-de-gao-jie-tu-pi-pei-de-zhang-liang-mo-xing/"/>
+      <url>2020/11/12/ji-yu-dan-xing-wang-yue-shu-de-gao-jie-tu-pi-pei-de-zhang-liang-mo-xing/</url>
+      
+        <content type="html"><![CDATA[<h2 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h2><p>建立两组集合中的特征点的对应关系在计算机视觉应用中非常重要. 本文介绍了基于弹性网络约束的张量模型用于高阶图匹配. 为了控制匹配结果的稀疏性和准确性之间的 tradeoff, 我们将弹性网络约束引入了张量图匹配模型. 于是, 我们使用了一种非单调谱投影梯度方法(NSPG)来求解之前提出的匹配模型. 在使用 NSPG 过程中, 我们提出了一种算法来计算弹性网络中可行凸集的投影. 进一步地, 全局收敛性也得到了证明. 该方法的优越性通过很多实验得到了验证.</p><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>各个方面都很有用.</p><p>一般来说, 图匹配可以被视作一个二次分配问题(QAP)</p><p>$$<br>\mathbf{X}^{*}=\arg \max _{\mathbf{X}} F(\mathbf{X})+\lambda R(\mathbf{X})<br>$$</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
